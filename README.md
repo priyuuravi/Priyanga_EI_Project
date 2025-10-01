@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Priyanga_EI_Project
 EI project
+=======
+
+>>>>>>> 4128afd (Added README.md and project files)
 
 EXERCISE 1
 
@@ -175,9 +179,15 @@ Design Patterns Used
    * **Purpose**: Allows automatic notification of events like assignment scheduling or submission.
    * **Relation to Use Case**: Keeps users updated with important classroom events.
 
+<<<<<<< HEAD
 
 
 Classes and Their Responsibilities
+=======
+---
+
+### 🗂️ Classes and Their Responsibilities
+>>>>>>> 4128afd (Added README.md and project files)
 
 * `Classroom`: Represents a classroom with students and assignments.
 * `Student`: Represents a student enrolled in a classroom.
@@ -195,6 +205,10 @@ To compile:
 bash
 javac -d out src/**/*.java
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4128afd (Added README.md and project files)
 To run:
 
 bash
@@ -210,4 +224,7 @@ java -cp out main.Main
 ----------------------------------------------------------------------------------------------------------
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4128afd (Added README.md and project files)
